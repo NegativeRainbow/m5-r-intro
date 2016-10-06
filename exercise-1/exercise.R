@@ -2,7 +2,7 @@
 
 # Create a variable `hometown` that stores the city in which you were born
 
-hometown < - "Karachi, Pakistan"
+hometown <- "Karachi, Pakistan"
 
 # Assign your name to the variable `my.name`
 
